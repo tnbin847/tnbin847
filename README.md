@@ -14,7 +14,7 @@
 <br/>
 
 ## 🛠️ Tools
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=FFFFFF"/>
 <br/>
 <br/>
 
