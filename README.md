@@ -9,7 +9,7 @@
 
 ## 📚 Skills 
 <img src="https://img.shields.io/badge/Java-7799FD?style=flat&logo=openjdk&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=FFFFFF"/>  
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=FFFFFF"/>
 <br/>
 <br/>
 
